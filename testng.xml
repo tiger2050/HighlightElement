@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.test.actitime.ActitimeTEST"/>
+      <class name="com.test.actitime.NewClass"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
